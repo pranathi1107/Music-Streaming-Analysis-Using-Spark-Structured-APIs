@@ -1,0 +1,11 @@
+user_id,top_genre,top_genre_listens,total_listens,loyalty_score
+user_39,Hip-Hop,4,5,0.8
+user_75,Jazz,3,4,0.75
+user_28,Classical,4,6,0.6667
+user_30,Classical,4,6,0.6667
+user_68,Classical,5,8,0.625
+user_33,Classical,3,5,0.6
+user_96,Classical,3,5,0.6
+user_52,Classical,5,9,0.5556
+user_81,Jazz,6,11,0.5455
+user_36,Jazz,5,10,0.5
